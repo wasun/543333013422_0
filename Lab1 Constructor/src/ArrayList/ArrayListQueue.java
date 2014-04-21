@@ -1,4 +1,4 @@
-package Lab2ArrayList;
+package ArrayList;
 
 public class ArrayListQueue {
 
