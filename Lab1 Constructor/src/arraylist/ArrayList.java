@@ -1,4 +1,4 @@
-package com.ArrayList;
+package arraylist;
 
 public class ArrayList {
 

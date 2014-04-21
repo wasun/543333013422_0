@@ -1,13 +1,14 @@
-package com.ArrayList;
+package arraylist;
 
 public class TestArrayList {
+
 	public static void main(String[] args) {
 		ArrayListQueue aq = new ArrayListQueue();
-		aq.enQueue("AAA");
-		aq.enQueue("BBB");
-		aq.enQueue("CCC");
-		aq.enQueue("DDD");
-		aq.enQueue("EEE");
+		aq.enQueue("AA");
+		aq.enQueue("BB");
+		aq.enQueue("CC");
+		aq.enQueue("DD");
+		aq.enQueue("EE");
 
 		System.out.println(aq);
 		aq.deQueue();
@@ -16,7 +17,7 @@ public class TestArrayList {
 		System.out.println(aq.peek());
 
 
-		System.out.println("###############################");
+		System.out.println("#################################");
 		ArrayList arr = new ArrayList();
 		arr.add("A");
 		System.out.println(arr);
@@ -26,9 +27,7 @@ public class TestArrayList {
 		System.out.println(arr);
 		arr.add(2, "D");
 		System.out.println(arr);
-		arr.add("E");
-		System.out.println(arr);
-		System.out.println("###############################");
+		System.out.println("#################################");
 	}
 
 }
