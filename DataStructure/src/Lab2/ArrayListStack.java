@@ -6,6 +6,7 @@ public class ArrayListStack {
 	private int size = 0; 
 
 
+	
 	public void push(Object e) {
 		ensureCapacity(size+1);
 		elementData[size] = e;
@@ -23,6 +24,8 @@ public class ArrayListStack {
 
 	public Object peek(){
 		return elementData[size-1];
+		
+		
 	}
 
 	private void ensureCapacity(int capasity) {

@@ -12,6 +12,8 @@ public class TestArrayList {
 		aq.enQueue("DD");
 		aq.enQueue("EE");
 
+		
+		
 		System.out.println(aq);
 		aq.deQueue();
 

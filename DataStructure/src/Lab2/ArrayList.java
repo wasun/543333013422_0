@@ -3,6 +3,7 @@ package Lab2;
 
 public class ArrayList {
 
+	
 	private Object elementData[] = new Object[1];
 	private int size = 0;
 

@@ -25,6 +25,8 @@ public class ArrayListQueue {
 			}
 			elementData = arr;
 		}			
+		
+		
 	}
 
 	public Object peek() {
