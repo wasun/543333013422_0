@@ -5,6 +5,7 @@ public class ArrayListStack {
 	private Object elementData[] = new Object[1];
 	private int size = 0; 
 
+	
 	public void push(Object e) {
 		ensureCapacity(size+1);
 		elementData[size] = e;

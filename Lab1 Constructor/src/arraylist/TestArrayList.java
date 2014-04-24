@@ -2,6 +2,7 @@ package arraylist;
 
 public class TestArrayList {
 
+	
 	public static void main(String[] args) {
 		ArrayListQueue aq = new ArrayListQueue();
 		aq.enQueue("AA");

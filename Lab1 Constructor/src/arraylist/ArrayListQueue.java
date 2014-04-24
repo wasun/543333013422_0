@@ -1,5 +1,6 @@
 package arraylist;
 
+
 public class ArrayListQueue {
 
 	private Object elementData [] = new Object[1];
