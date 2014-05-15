@@ -1,7 +1,9 @@
 package com.rmuti;
 
+
 public class RobertoCarlos {
 
+	
 	private String name;
 	private String position;
 	private String friend[];

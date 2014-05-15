@@ -2,8 +2,7 @@ package Tree;
 
 public class BinaryTree {
 
-
-
+	
 	public Main root;
 
 	public BinaryTree(){

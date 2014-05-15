@@ -2,8 +2,7 @@ package Tree;
 
 public class Main {
 
-
-
+	
         public int data;
         public Main left;
         public Main right;
